@@ -1,3 +1,3 @@
 # flutter_application_1_flutterdemo
 
-A new Flutter project.
+Este é um projecto que consiste numa aplicação móvel para fazer doações 
